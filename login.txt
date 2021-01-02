@@ -1,1 +1,3 @@
 commit 1: hiện tại tôi đang ở nhánh login 
+
+Lúc này tôi đã merge nhánh login vào master nhưng tôi quyết định update thêm thông tin login
