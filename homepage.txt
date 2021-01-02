@@ -1,3 +1,5 @@
 tôi muốn một lúc tách 2 nhánh nên đã tạo thêm homepage
 
 commit nhánh homepage lần 2 cứ coi như là đang phát triển feature này
+
+đã merge thằng security vào master giờ commit thằng home page trước khi merge chung vào master
