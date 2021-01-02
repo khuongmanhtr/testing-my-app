@@ -1,1 +1,3 @@
 tôi muốn một lúc tách 2 nhánh nên đã tạo thêm homepage
+
+commit nhánh homepage lần 2 cứ coi như là đang phát triển feature này
